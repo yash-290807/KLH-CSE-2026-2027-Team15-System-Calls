@@ -1,12 +1,15 @@
 # Multi-User Chat Application Using Linux System Calls
 
 ## Team Members
-- [Insert Team Member 1] - [ID 1]
-- [Insert Team Member 2] - [ID 2]
-- [Insert Team Member 3] - [ID 3]
+
+| S. No. | Team Member | ID |
+|--------:|-------------|------------|
+| 1 | Yashwanth | 2520030259 |
+| 2 | Bharath | 2520030169 |
+| 3 | Praneeth | 2520030186 |
 
 ## Supervisor
-- [Insert Supervisor's Name]
+- [Dr.Soumya  ,  Dr.Bheekya]
 
 ## Abstract
 A college-level Open Source Software Project (OSSP) implementing a robust TCP multi-user chat application in C on Ubuntu/WSL. The project demonstrates core operating system concepts including Linux system calls, process management with `fork()`, inter-process communication using pipes, and TCP socket programming. It supports multiple simultaneous clients with broadcasting and direct messaging capabilities.
