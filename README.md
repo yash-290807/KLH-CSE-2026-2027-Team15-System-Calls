@@ -12,7 +12,7 @@
 - [Dr.Soumya  ,  Dr.Bheekya]
 
 ## Abstract
-A college-level Open Source Software Project (OSSP) implementing a robust TCP multi-user chat application in C on Ubuntu/WSL. The project demonstrates core operating system concepts including Linux system calls, process management with `fork()`, inter-process communication using pipes, and TCP socket programming. It supports multiple simultaneous clients with broadcasting and direct messaging capabilities.
+A Operating Systems and Systems Programming (OSSP) implementing a robust TCP multi-user chat application in C on Ubuntu/WSL. The project demonstrates core operating system concepts including Linux system calls, process management with `fork()`, inter-process communication using pipes, and TCP socket programming. It supports multiple simultaneous clients with broadcasting and direct messaging capabilities.
 
 ## Current Phase Status
 - **Phase**: [e.g., Development / Testing / Completed]
