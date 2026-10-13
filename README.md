@@ -1,8 +1,6 @@
-# OPERATING SYSTEMS AND SYSTEM PROGRAMMING (OSSP)
+# 🖥️ OSSP — Operating Systems and System Programming
 
----
-
-## TEAM MEMBERS
+## 👥 Team Members
 
 | S. No. | Team Member | Student ID |
 |:---:|---|:---:|
@@ -10,11 +8,18 @@
 | 2 | Bharath | 2520030169 |
 | 3 | Praneeth | 2520030186 |
 
----
+## 🎓 Project Supervisors
 
-## PROJECT SUPERVISORS
-
-**Dr. Soumya**  
-**Dr. Bheekya**
+- **Dr. Soumya**
+- **Dr. Bheekya**
 
 ---
+
+<div align="center">
+
+**Operating Systems and System Programming (OSSP)**
+
+*Academic Project Documentation*
+
+</div>
+
