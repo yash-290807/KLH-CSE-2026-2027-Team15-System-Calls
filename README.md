@@ -1,13 +1,20 @@
-OSSP
+# OPERATING SYSTEMS AND SYSTEM PROGRAMMING (OSSP)
 
+---
 
-## Team Members
+## TEAM MEMBERS
 
-| S. No. | Team Member | ID |
-|--------:|-------------|------------|
+| S. No. | Team Member | Student ID |
+|:---:|---|:---:|
 | 1 | Yashwanth | 2520030259 |
 | 2 | Bharath | 2520030169 |
 | 3 | Praneeth | 2520030186 |
 
-## Supervisor
-- [Dr.Soumya ]
+---
+
+## PROJECT SUPERVISORS
+
+**Dr. Soumya**  
+**Dr. Bheekya**
+
+---
