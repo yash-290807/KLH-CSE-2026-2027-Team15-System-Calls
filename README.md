@@ -10,4 +10,4 @@ OSSP
 | 3 | Praneeth | 2520030186 |
 
 ## Supervisor
-- [Dr.Soumya  ,  Dr.Bheekya]
+- [Dr.Soumya ]
